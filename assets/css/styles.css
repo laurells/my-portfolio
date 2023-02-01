@@ -45,6 +45,8 @@ body {
     font-family: var(--font-family);
 }
 
+
+
 /* Navigation */
 nav {
     position: sticky;
@@ -128,7 +130,7 @@ nav ul li {
 }
 
 .more-about h2{
-    margin-bottom: var(--bottomm-margin);
+    margin-bottom: var(--bottom-margin);
     text-align: center;
 }
 
@@ -291,6 +293,8 @@ nav ul li {
     height: 2rem;
 }
 
+/* scroll to top */
+
 .scroll-up {
     position: fixed;
     right: 0.5%;
@@ -305,7 +309,7 @@ nav ul li {
 
 /* Footer */
 
-.footer {
+footer {
     background-color: var(--bg-color);
     padding: 1.25rem;
     text-align: center;
