@@ -120,7 +120,7 @@ nav ul li {
     width: 25rem;
     padding: 0.625rem;
     border-radius: 6px;
-    box-shadow: 0px 2px 10px 2px var(--primary-shadow);
+    box-shadow: 0px 3px 10px var(--secondary-shadow);
 }
 
 .bio h1 {
@@ -219,7 +219,7 @@ nav ul li {
 .project-card{
     background-color: #fff;
     border-radius: 11px;
-    box-shadow: 0 3px 10px var(--primary-shadow);
+    box-shadow: 0 3px 10px var(--secondary-shadow);
     padding: 20px;
     margin: 10px;
 }
@@ -361,12 +361,13 @@ footer {
     }
 
     .hero img {
-        height: 37.5rem;
+        height: 30.5rem;
         width: 30rem;
+        margin-top: 50px;
     }
 
     .bio {
-        margin-top: -7rem;
+        margin-top: -0.01em;
         width: 20.5rem;
     }
 
@@ -410,6 +411,8 @@ footer {
     .bio {
         width: 18.3rem;
     }
+
+
 
     .project-container {
         width: 17.875rem;
