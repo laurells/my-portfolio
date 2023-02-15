@@ -21,6 +21,10 @@ html {
     scroll-behavior: smooth;
 }
 
+strong{
+    color: var(--primary-color)
+}
+
 /* CSS Reset */
 * {
     margin: 0;
